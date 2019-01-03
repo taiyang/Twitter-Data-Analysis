@@ -1,8 +1,10 @@
 # README
 
-This is the code part of DS 577 final project.
+This is the code part of DS 577 final project at Rutgers University, a elective course toward Master of Data Science program.
 
 ## Structure
+
+* Please refer to `report.pdf` for detail analysis.
 
 * `.ipynb` files are Jupyter notebook files. `project-hadoop-result.ipynb` is
 loading the Hadoop results stored in `out/` folder. `project-spark.ipynb` files
@@ -14,5 +16,5 @@ configurations and the original dataset (around 2.5 GB).
 * `out` folder contains the output of Hadoop system.
 
 If you have any question reagarding the original datset or anything else, feel
-free to email at `tai.yang@rutgers.edu` or `rs1578@scarletmail.rutgers.edu`.
+free to contact [@taiyang](https://github.com/taiyang)
 Thank you!
