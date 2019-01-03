@@ -16,5 +16,5 @@ configurations and the original dataset (around 2.5 GB).
 * `out` folder contains the output of Hadoop system.
 
 If you have any question reagarding the original datset or anything else, feel
-free to contact [@taiyang](https://github.com/taiyang)
+free to contact [@taiyang](https://github.com/taiyang).
 Thank you!
